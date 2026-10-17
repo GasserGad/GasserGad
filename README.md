@@ -16,13 +16,13 @@ Open to entry-level roles in NYC: software engineering (backend or full-stack), 
 
 ## Projects
 
-**[CompenStation](https://github.com/GasserGad/CompenStation)** · [Live demo](https://compenstation.onrender.com)
+**[CompenStation](https://github.com/GasserGad/CompenStation)** · [Live demo](https://compenstation.gassergad.com)
 Payroll system with timesheets, admin approvals, and paystubs that include taxes, benefits and deductions.
 I built the backend, API routing and security in the original 5-person team project, then rebuilt it
 into the deployed version: PostgreSQL, server-side sessions, CSRF protection, transactional payroll runs,
 40 integration tests and CI.
 
-**[CS2 H2H](https://github.com/GasserGad/cs2-faceit-comparison-tool)** · [Live](https://cs2-faceit-comparison-tool.onrender.com)
+**[CS2 H2H](https://github.com/GasserGad/cs2-faceit-comparison-tool)** · [Live](https://h2h.gassergad.com)
 Compares two FACEIT CS2 players head to head, including the matches they played together or against each other.
 Express 5, strict Content Security Policy, rate limiting, and CI with CodeQL and secret scanning.
 
