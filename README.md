@@ -63,4 +63,4 @@ Fluent in Arabic and English.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/gasser-gadabdelkader)
+[hello@gassergad.com](mailto:hello@gassergad.com) · [LinkedIn](https://linkedin.com/in/gasser-gadabdelkader)
